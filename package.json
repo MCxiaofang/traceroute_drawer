@@ -1,0 +1,21 @@
+{
+  "dependencies": {
+    "d3": "^7.8.4",
+    "jsdom": "^21.1.1",
+    "sharp": "^0.32.0"
+  },
+  "devDependencies": {
+    "babel-preset-es2015": "^6.24.1"
+  },
+  "type": "module",
+  "name": "jsgraph",
+  "version": "1.0.0",
+  "main": "d3_test.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": ""
+}
